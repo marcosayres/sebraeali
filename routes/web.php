@@ -1,11 +1,15 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\DocController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/doc/create', [DocController::class, 'create'])->name('doc.create');
+Route::post('/doc/store', [DocController::class, 'store'])->name('doc.store');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
