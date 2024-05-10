@@ -365,8 +365,9 @@ visualização do estágio de inovação das empresas participantes no início d
                 </div>
                 <!-- Pricing Card -->
                 <div class="flex flex-col max-w-lg p-6 mx-auto text-center text-gray-900 bg-white border border-gray-100 rounded-lg shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-                    <h3 class="mb-4 text-2xl font-semibold">Problemas empresariais, soluções e produtividade: análise do cenário paranaense</h3>
-                    <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Resumo: Este artigo se justifica pela necessidade econômica de mostrar que os recursos financeiros
+                    <h3 class="mb-4 text-2xl font-semibold">A prática da inovação em micro e pequenas empresas através da participação no programa ALI do SEBRAE: uma pesquisa de campo</h3>
+                    <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Resumo: Negócios realizados através do Sebrae. Na segunda quinzena de março, cerca de 89% das MPEs
+havia relatado queda no faturamento e 30% já havia buscado empréstimo para a empresa…
 … O objetivo geral deste artigo é apresentar os resultados de produtividade obtidos pelas …</p>
                     <br>
                     Autor: Julio Gaspar
@@ -580,6 +581,6 @@ visualização do estágio de inovação das empresas participantes no início d
             </div>
         </div>
     </footer>
-    <script src="https://unpkg.com/flowbite@1.4.1/dist/flowbite.js"></script>
+    <script src="#"></script>
 </body>
 </html>
